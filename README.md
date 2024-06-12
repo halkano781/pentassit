@@ -21,7 +21,7 @@ The Pentassit Tool is a command-line script designed to assist newcomers in perf
 - **Python 3**: Programming language used for scripting.
 - **dirsearch**: Web path scanner for content discovery ([GitHub](https://github.com/maurosoria/dirsearch)).
 - **sublist3r**: Subdomain enumeration tool ([GitHub](https://github.com/aboul3la/Sublist3r)).
-- **Metasploit**: Optional dependency for exploitation ([GitHub](https://github.com/rapid7/metasploit-framework)).
+- **LinkFinder**: find javascript endpoint and outputs in html
 
 ## Contribution
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
